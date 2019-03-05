@@ -6,7 +6,7 @@ This module is about becoming familiar with the native layer and developing stra
 ## Lecture
 Learning x86 can appear daunting at first and requires some dedicated study to master. We recommend reading Chapter 3 of "Computer Systems: A Programmer's Perspective" to learn how C programs get compiled into machine code. Once you you have some basic, working knowledge of this process then keep a handy reference guide around like the x86 Assembly Guide from the University of Virginia. We've found this video series from Quinn Liu to be a quick and painless introduction too.
 
-* CS:APP Chapter 3: [Machine-Level Representation of Programs](https://picoctf.com/docs/asmhandout.pdf)
+* CS:APP Chapter 3: [Machine-Level Representation of Programs](http://gec.di.uminho.pt/DISCIP/MaisAC/CS-APP_Bryant/csapp.preview3.pdf)
 * [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [Introduction to x86 Assembly](https://www.youtube.com/watch?v=qn1_dRjM6F0&list=PLPXsMt57rLthf58PFYE9gOAsuyvs7T5W9)
 
@@ -15,7 +15,7 @@ The following programs are both “binary bombs.” Reverse engineer the followi
 
 You should aim to solve at least eight stages between the two labs. The CMU bomb lab has a secret phase and the RPI bomb lab has a phase that involves memory corruption, can you find and solve them?
 
-* [CMU Binary Bomb Lab](http://csapp.cs.cmu.edu/public/bomb.tar)
+* [CMU Binary Bomb Lab](http://csapp.cs.cmu.edu/2e/bomb32.tar)
 * [RPI Binary Bomb Lab](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/rev2/bomb)
 
 ## Tools
